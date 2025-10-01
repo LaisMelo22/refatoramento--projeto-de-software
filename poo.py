@@ -1,3 +1,6 @@
+#Rascunho inicial do projeto (não usar para compilar 
+
+
 import sqlite3
 import customtkinter as ctk
 from tkinter import ttk, messagebox
@@ -291,3 +294,4 @@ if __name__ == "__main__":
     ctk.set_default_color_theme("blue")
     app = PortfolioApp()
     app.mainloop()
+
