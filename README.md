@@ -1,5 +1,10 @@
 # portfolio-padroes-v2
-Aplicativo desktop (CustomTkinter + SQLite) demonstrando **Abstract Factory, Builder, Factory Method, Monostate (Borg), Prototype, Singleton, Implementação (Bridge)**.
+
+DESCRIÇÃO DE GERENCIAMENTO DE PORTFÓLIO
+
+Este módulo é uma das funcionalidade do projeto de Sistema de Negociação. Ele permite o controle e acompanhamento de carteiras de investimento, incluindo adição de ativos, cálculo do valor total investido e visualização da carteira.
+
+-> Aplicativo desktop (CustomTkinter + SQLite) demonstrando **Abstract Factory, Builder, Factory Method, Monostate (Borg), Prototype, Singleton, Implementação (Bridge)**.
 
 ## Instalar e executar
 ```bash
